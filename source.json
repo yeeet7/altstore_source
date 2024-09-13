@@ -7,8 +7,7 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
+        "com.yeeet7.cloudstream"
     ],
     "apps": [
         {
@@ -30,10 +29,10 @@
             ],
             "versions": [
                 {
-                    "version": "0.14.0",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "version": "0.4.14",
+                    "date": "2024-09-13T09:00:00-08:00",
+                    "size": 24762412,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/cloudstream.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 }
