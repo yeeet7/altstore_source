@@ -5,7 +5,8 @@
     "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
     "headerURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
     "featuredApps": [
-        "com.example.cloudstream"
+        "com.example.cloudstream",
+        "com.yeeet7.food"
     ],
     "apps": [
         {
