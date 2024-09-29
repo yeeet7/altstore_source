@@ -6,13 +6,13 @@
     "headerURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
     "featuredApps": [
         "com.example.cloudstream",
-        "com.yeeet7.food"
+        "com.yeeet.food"
     ],
     "apps": [
         {
             "name": "Cloudstream",
             "bundleIdentifier": "com.example.cloudstream",
-            "developerName": "yeeet7",
+            "developerName": "yeeet",
             "subtitle": "app for watching movies and tv shows",
             "localizedDescription": "app for watching movies and tv shows",
             "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
@@ -45,8 +45,8 @@
         },
         {
             "name": "Food",
-            "bundleIdentifier": "com.yeeet7.food",
-            "developerName": "yeeet7",
+            "bundleIdentifier": "com.yeeet.food",
+            "developerName": "yeeet",
             "subtitle": "app for counting calories and macros",
             "localizedDescription": "app for counting calories and macros",
             "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/food/icon.png",
@@ -93,7 +93,7 @@
             "tintColor": "#c41307",
             "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/food/icon.png",
             "notify": true,
-            "appID": "com.yeeet7.food"
+            "appID": "com.yeeet.food"
         }
     ]
 }
