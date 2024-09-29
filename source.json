@@ -41,6 +41,36 @@
                 "privacy": {
                 }
             }
+        },
+        {
+            "name": "Food",
+            "bundleIdentifier": "com.yeeet7.food",
+            "developerName": "yeeet7",
+            "subtitle": "app for counting calories and macros",
+            "localizedDescription": "app for counting calories and macros",
+            "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/food/icon.png",
+            "tintColor": "c41307",
+            "category": "lifestyle",
+            "screenshots": [
+                "https://example.com/ss.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.4",
+                    "date": "2024-09-01",
+                    "size": 33229720,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/food.ipa",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                }
+            }
         }
     ],
     "news": [
@@ -53,6 +83,16 @@
             "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "notify": true,
             "appID": "com.example.cloudstream"
+        },
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for food.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#c41307",
+            "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/food/icon.png",
+            "notify": true,
+            "appID": "com.yeeet7.food"
         }
     ]
 }
