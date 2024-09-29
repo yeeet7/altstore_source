@@ -12,7 +12,7 @@
     "apps": [
         {
             "name": "Cloudstream",
-            "bundleIdentifier": "com.yeeet7.cloudstream",
+            "bundleIdentifier": "com.example.cloudstream",
             "developerName": "yeeet7",
             "subtitle": "app for watching movies and tv shows",
             "localizedDescription": "This is an awesome app only available on AltStore.",
