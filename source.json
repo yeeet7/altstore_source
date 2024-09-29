@@ -13,6 +13,7 @@
             "bundleIdentifier": "com.example.cloudstream",
             "developerName": "yeeet7",
             "subtitle": "app for watching movies and tv shows",
+            "localizedDescription": "app for watching movies and tv shows",
             "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "tintColor": "174dd8",
             "category": "entertainment",
