@@ -16,6 +16,7 @@
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#5CA399",
+            "category": "entertainment",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
                 "https://example.com/myapp_portrait_screenshot2.png",
