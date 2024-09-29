@@ -19,12 +19,7 @@
             "category": "entertainment",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
-                {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-                    "width": 2556,
-                    "height": 1179
-                }
+                "https://example.com/myapp_portrait_screenshot2.png"
             ],
             "versions": [
                 {
