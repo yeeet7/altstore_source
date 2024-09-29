@@ -1,13 +1,11 @@
 {
-    "name": "my source",
+    "name": "my github apps",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
-    "tintColor": "#4185A9",
     "featuredApps": [
-        "com.yeeet7.cloudstream"
+        "com.example.cloudstream"
     ],
     "apps": [
         {
@@ -30,10 +28,9 @@
             "versions": [
                 {
                     "version": "0.4.14",
-                    "date": "2024-09-13T09:00:00-08:00",
+                    "date": "2024-09-13",
                     "size": 24762412,
                     "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/cloudstream.ipa",
-                    "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 }
             ],
@@ -49,24 +46,14 @@
     ],
     "news": [
         {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
-        },
-        {
             "title": "App Update Available",
             "identifier": "app_update",
-            "caption": "An update is available for My Example App.",
+            "caption": "An update is available for cloudstream.",
             "date": "2023-03-10T10:00:00-07:00",
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "com.yeeet7.cloudstream"
+            "notify": true,
+            "appID": "com.example.cloudstream"
         }
     ]
 }
