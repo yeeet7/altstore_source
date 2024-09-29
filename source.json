@@ -2,8 +2,8 @@
     "name": "my github apps",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
+    "headerURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
     "featuredApps": [
         "com.example.cloudstream"
     ],
@@ -13,13 +13,15 @@
             "bundleIdentifier": "com.example.cloudstream",
             "developerName": "yeeet7",
             "subtitle": "app for watching movies and tv shows",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-            "tintColor": "#5CA399",
+            "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
+            "tintColor": "174dd8",
             "category": "entertainment",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png"
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/home.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/search.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/movie.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/series.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/settings.png"
             ],
             "versions": [
                 {
@@ -46,8 +48,8 @@
             "identifier": "app_update",
             "caption": "An update is available for cloudstream.",
             "date": "2023-03-10T10:00:00-07:00",
-            "tintColor": "#3660A2",
-            "imageURL": "https://example.com/app_update_image.png",
+            "tintColor": "#174DD8",
+            "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "notify": true,
             "appID": "com.example.cloudstream"
         }
