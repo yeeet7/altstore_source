@@ -27,17 +27,17 @@
             ],
             "versions": [
                 {
-                    "version": "0.4.14",
-                    "date": "2024-09-13",
-                    "size": 24762412,
-                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/cloudstream.ipa",
-                    "minOSVersion": "12.0"
-                },
-                {
                     "version": "0.5.1",
                     "date": "2024-10-21",
                     "size": 24788967,
                     "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.5.1/cloudstream.ipa",
+                    "minOSVersion": "12.0"
+                },
+                {
+                    "version": "0.4.14",
+                    "date": "2024-09-13",
+                    "size": 24762412,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/cloudstream.ipa",
                     "minOSVersion": "12.0"
                 }
             ],
