@@ -1,0 +1,96 @@
+{
+    "name": "my github apps",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
+    "headerURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/source_img.jpg",
+    "featuredApps": [
+        "com.example.cloudstream",
+        "com.yeeet.food"
+    ],
+    "apps": [
+        {
+            "name": "Cloudstream",
+            "bundleIdentifier": "com.example.cloudstream",
+            "developerName": "yeeet",
+            "subtitle": "app for watching movies and tv shows",
+            "localizedDescription": "app for watching movies and tv shows",
+            "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
+            "tintColor": "174dd8",
+            "category": "entertainment",
+            "screenshots": [
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/home.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/search.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/movie.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/series.png",
+                "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/settings.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.4.14",
+                    "date": "2024-09-13",
+                    "size": 24762412,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/cloudstream.ipa",
+                    "minOSVersion": "12.0"
+                },
+                {
+                    "version": "0.5.1",
+                    "date": "2024-10-21",
+                    "size": 24788967,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.5.1/cloudstream.ipa",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                }
+            }
+        },
+        {
+            "name": "Food",
+            "bundleIdentifier": "com.yeeet.food",
+            "developerName": "yeeet",
+            "subtitle": "app for counting calories and macros",
+            "localizedDescription": "app for counting calories and macros",
+            "iconURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/food/icon.png",
+            "tintColor": "c41307",
+            "category": "lifestyle",
+            "screenshots": [
+                "https://example.com/ss.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.4",
+                    "date": "2024-09-01",
+                    "size": 33229720,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.4.14/food.ipa",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for cloudstream.",
+            "date": "2024-10-21T11:16:00-00:00",
+            "tintColor": "#174DD8",
+            "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
+            "notify": true,
+            "appID": "com.example.cloudstream"
+        }
+    ]
+}
