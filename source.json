@@ -28,7 +28,6 @@
             "versions": [
                 {
                     "version": "0.5.3",
-                    "buildVersion": "2",
                     "date": "2024-10-26",
                     "size": 24790340,
                     "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.5.3/cloudstream.ipa",
@@ -36,7 +35,6 @@
                 },
                 {
                     "version": "0.5.1",
-                    "buildVersion": "1",
                     "date": "2024-10-21",
                     "size": 24788967,
                     "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.5.1/cloudstream.ipa",
