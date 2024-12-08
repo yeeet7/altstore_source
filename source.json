@@ -27,6 +27,13 @@
             ],
             "versions": [
                 { 
+                    "version": "0.6.14",
+                    "date": "2024-12-08",
+                    "size": 24851389,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.6.14/cloudstream.ipa",
+                    "minOSVersion": "12.0"
+                },
+                { 
                     "version": "0.6.13",
                     "date": "2024-12-07",
                     "size": 24850050,
@@ -182,9 +189,9 @@
     "news": [
         {
             "title": "App Update Available",
-            "identifier": "cloudstream_app_update_v0.6.13",
+            "identifier": "cloudstream_app_update_v0.6.14",
             "caption": "An update is available for cloudstream.",
-            "date": "2024-12-07T22:15:00-00:00",
+            "date": "2024-12-08T20:45:00-00:00",
             "tintColor": "#174DD8",
             "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "notify": true,
