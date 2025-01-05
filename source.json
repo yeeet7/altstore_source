@@ -27,6 +27,14 @@
             ],
             "versions": [
                 { 
+                    "version": "0.8.4",
+                    "date": "2025-01-05",
+                    "size": 24901937,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.8.4/cloudstream.ipa",
+                    "localizedDescription": "- fixed tv shows release date being null",
+                    "minOSVersion": "12.0"
+                },
+                { 
                     "version": "0.8.3",
                     "date": "2024-12-30",
                     "size": 24907296,
@@ -304,9 +312,9 @@
     "news": [
         {
             "title": "App Update Available",
-            "identifier": "cloudstream_app_update_v0.8.3",
+            "identifier": "cloudstream_app_update_v0.8.4",
             "caption": "An update is available for cloudstream.",
-            "date": "2024-12-30T17:45:00-00:00",
+            "date": "2025-01-05T15:45:00-00:00",
             "tintColor": "#174DD8",
             "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "notify": true,
