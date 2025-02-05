@@ -29,9 +29,9 @@
                 { 
                     "version": "0.8.6",
                     "date": "2025-02-05",
-                    "size": 24905302,
+                    "size": 24905431,
                     "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.8.6/cloudstream.ipa",
-                    "localizedDescription": "- fix movie info not loading (??)",
+                    "localizedDescription": "- fix movie info not loading",
                     "minOSVersion": "12.0"
                 },
                 { 
