@@ -27,6 +27,14 @@
             ],
             "versions": [
                 { 
+                    "version": "0.8.7",
+                    "date": "2025-02-13",
+                    "size": 25005356,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.8.7/cloudstream.ipa",
+                    "localizedDescription": "- added imdb_id to movieInfo\n- debug settings on ios",
+                    "minOSVersion": "12.0"
+                },
+                { 
                     "version": "0.8.6",
                     "date": "2025-02-05",
                     "size": 24905431,
@@ -328,9 +336,9 @@
     "news": [
         {
             "title": "App Update Available",
-            "identifier": "cloudstream_app_update_v0.8.6",
+            "identifier": "cloudstream_app_update_v0.8.7",
             "caption": "An update is available for cloudstream.",
-            "date": "2025-02-05T11:15:00-00:00",
+            "date": "2025-02-13T19:45:00-00:00",
             "tintColor": "#174DD8",
             "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "notify": true,
