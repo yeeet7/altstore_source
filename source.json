@@ -27,6 +27,14 @@
             ],
             "versions": [
                 { 
+                    "version": "0.9.1",
+                    "date": "2025-07-04",
+                    "size": 24735411,
+                    "downloadURL": "https://github.com/yeeet7/altstore_source/releases/download/v0.9.1/cloudstream.ipa",
+                    "localizedDescription": "- added episodes progress indicator",
+                    "minOSVersion": "12.0"
+                },
+                { 
                     "version": "0.9.0",
                     "date": "2025-03-10",
                     "size": 25319482,
@@ -344,9 +352,9 @@
     "news": [
         {
             "title": "App Update Available",
-            "identifier": "cloudstream_app_update_v0.9.0",
+            "identifier": "cloudstream_app_update_v0.9.1",
             "caption": "An update is available for cloudstream.",
-            "date": "2025-03-10T08:45:00-00:00",
+            "date": "2025-07-04T22:30:00-00:00",
             "tintColor": "#174DD8",
             "imageURL": "https://raw.githubusercontent.com/yeeet7/altstore_source/refs/heads/main/cloudstream/icon.png",
             "notify": true,
